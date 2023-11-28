@@ -1,4 +1,4 @@
-package example.reflection2;
+package example.reflection.fetchbyannotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;
